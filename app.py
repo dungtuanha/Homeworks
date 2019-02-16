@@ -15,7 +15,7 @@ def love():
     "You look amazing out there.",
     "They invented hugs to let people know you love them without saying anything.",
     "If you love someone, let them know.",
-    "Don't ever forger a thing called love.",
+    "Don't ever forget a thing called love.",
     "Everyone needs to be loved",
   ]
   for j in range(len(love_list)):
